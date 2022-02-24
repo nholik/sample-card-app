@@ -1,0 +1,12 @@
+{
+  "name": "mocafita-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "fastify": "^3.27.2",
+    "fastify-jwt": "^4.1.3"
+  }
+}
