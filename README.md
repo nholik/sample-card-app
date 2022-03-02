@@ -30,8 +30,3 @@ From an end user perspective, when going to the application, you will be immedia
 
 - username: jsmith, password: password, valid card: 5141222222229082
 - username: pbean, password: password, valid card: 5141111111119844
-
-## In action
-
-You can see a deployed sample at [https://mocafi-test.nlh3.com/](https://mocafi-test.nlh3.com/)
-
